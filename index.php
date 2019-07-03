@@ -1,5 +1,6 @@
 <?php
-	echo "Olá mundo 456!!!";
-
+<<<<<<< HEAD
 	echo "Olá Enfermeira";
+
+	echo "Olá Jacaré!"
 ?>
